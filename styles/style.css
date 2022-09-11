@@ -1,0 +1,40 @@
+html {
+    font-size: 25pxpx;
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(77, 77, 77);
+}
+body{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(143, 143, 143);
+    padding: 30px 25px 30px 25px;
+    border: 5px solid black;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(77, 77, 77);
+    text-shadow: 4px 4px 2px black;
+    font-size: 50px;
+    text-align: center;
+}
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
+#UnderText {
+    text-align: center;
+}
+div.ThingsInSiteContainer{
+    text-align: center;
+}
+ul.ThingsInSite {
+    display: inline-block;
+    text-align: left;
+}
